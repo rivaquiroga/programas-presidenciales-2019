@@ -1,6 +1,6 @@
 # Programas presidenciales elecciones 2019: Argentina y Uruguay
 
-Las próximas elecciones presidenciales en Argentina y Uruguay serán el tema de la semana 22 (4 de septiembre) del proyecto [#datosdemieRcoles](https://github.com/cienciadedatos/datos-de-miercoles). 
+Las próximas elecciones presidenciales en Argentina y Uruguay serán el tema de la semana 22 (4 de septiembre) del proyecto [#datosdemieRcoles](https://github.com/cienciadedatos/datos-de-miercoles). En este repositorio está el código que utilicé para descargar y procesar los archivos. 
 
 ## Argentina
 
