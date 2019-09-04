@@ -1,6 +1,6 @@
 # Programas presidenciales elecciones 2019: Argentina y Uruguay
 
-Las próximas elecciones presidenciales en Argentina y Uruguay serán el tema de la semana 22 (3 de septiembre) del proyecto [#datosdemieRcoles](https://github.com/cienciadedatos/datos-de-miercoles). 
+Las próximas elecciones presidenciales en Argentina y Uruguay serán el tema de la semana 22 (4 de septiembre) del proyecto [#datosdemieRcoles](https://github.com/cienciadedatos/datos-de-miercoles). 
 
 ## Argentina
 
@@ -132,9 +132,9 @@ partido_colorado %>%
   
 ```
 
-Respecto de este programa hay que tener en cuenta varias cosas. Primero, que incluía muchas notas al pie que en algunos casos cortan los párrafos que se extienden de una página a otra. Segundo, que contenía gráficos, por lo que luego de convertir el pdf solo queda el título y las notas. Tercero, que había tablas. En ese caso, los datos quedan, pero sin formato. Por último, hubo problemas en la conversión de algunos títulos por la tipografía y diseño en el pdf original, lo que hizo que ocurrieran cosas como esta:
+Respecto de este programa hay que tener en cuenta varias cosas. Primero, que incluía muchas notas al pie que en algunos casos cortan los párrafos que se extienden de una página a otra. Segundo, que contenía gráficos, por lo que luego de convertir el pdf solo queda el título y las notas. Tercero, que había tablas. En ese caso, los datos quedan, pero sin formato. Por último, hubo problemas en la conversión de algunos títulos por la tipografía y diseño en el pdf original, lo que hizo que en algunos casos quedaran espacios entre las letras de una palabra:
 
-![](https://github.com/rivaquiroga/programas-presindenciales-2019/otros-problemas.png)
+<a href="url"><img src="https://github.com/rivaquiroga/programas-presidenciales-2019/blob/master/otros-problemas.png" align="center" width="50%"></a>
 
 Eso no está arreglado en los archivos `*.txt` incluidos en este repositorio. 
 
