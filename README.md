@@ -1,2 +1,2 @@
-# programas-presidenciales-2019
-Programas de los candidatos presidenciales 2019 de Argentina y Uruguay en formato *.txt
+# Programas presidenciales elecciones 2019: Argentina y Uruguay
+Archivos en texto plano + el código que se utilizó para procesarlos
